@@ -14,7 +14,7 @@ class Settings:
         self.screen_height = 800
         self.bg_color = (54, 38, 32)
         # Slime Settings.
-        self.slime_speed_factor = 1.5
+        self.slime_speed_factor = 20
         # Maze Settings
         self.maze_width = 4
         self.maze_height = 4
